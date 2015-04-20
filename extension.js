@@ -98,7 +98,7 @@
         etaRestriction: false,
         welcome: true,
         opLink: null,
-        rulesLink: null,
+        rulesLink: http://pastebin.com/cQN1jT1F,
         themeLink: null,
         fbLink: null,
         youtubeLink: null,
