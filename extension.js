@@ -1,6 +1,6 @@
 (function () {
     //Link location of your fork so you don't have to modify so many things.
-    var fork = "Yemasthui";
+    var fork = "Aerione";
 		
     //Define our function responsible for extending the bot.
     function extend() {
@@ -98,7 +98,7 @@
         etaRestriction: false,
         welcome: true,
         opLink: null,
-        rulesLink: http://pastebin.com/cQN1jT1F,
+        rulesLink: null,
         themeLink: null,
         fbLink: null,
         youtubeLink: null,
