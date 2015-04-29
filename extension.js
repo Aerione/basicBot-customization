@@ -96,7 +96,7 @@
         motd: "This room is reserved for video game music, please abide the rules and have a nice time!",
         filterChat: true,
         etaRestriction: false,
-        welcome: true,
+        welcome: false,
         opLink: null,
         rulesLink: "http://pastebin.com/cQN1jT1F",
         themeLink: null,
